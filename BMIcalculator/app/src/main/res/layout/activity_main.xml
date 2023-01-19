@@ -107,7 +107,7 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.137" />
 
-            <EditText
+            4<EditText
                 android:id="@+id/etWeight"
                 android:layout_width="136dp"
                 android:layout_height="76dp"
